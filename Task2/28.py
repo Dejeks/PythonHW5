@@ -8,5 +8,4 @@ def summa(a, b):
     return summa(a-1, b+1)
 
 
-
 print(summa(int(input("N1: ")), int(input("N2: ")))) 
